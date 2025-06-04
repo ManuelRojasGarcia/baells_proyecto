@@ -148,7 +148,6 @@ Proyecto académico de análisis y visualización de datos.
 
 ## ⚠️ Notas Técnicas
 
-- No se deben usar rutas absolutas.
 - Toda funcionalidad está organizada modularmente.
 - El fichero `main.py` gestiona la ejecución de los ejercicios.
 - Las imágenes generadas se almacenan en la carpeta `img/`.
