@@ -101,7 +101,6 @@ pytest tests/
 
 ```bash
 pytest --cov=src tests/
-C:\Users\Manz\AppData\Local\Programs\Python\Python312\python.exe -m pytest --cov=src tests/
 ```
 
 ---
@@ -120,7 +119,6 @@ Para generar la documentación, ejecuta el siguiente comando desde la raíz del 
 
 ```bash
 pdoc --html src/modules --output-dir doc --force
-C:\Users\Manz\AppData\Local\Programs\Python\Python312\python.exe -m pdoc src/modules --output-dir doc
 ---
 
 ## ✅ Linter
@@ -129,8 +127,6 @@ Revisar la calidad del código con pylint:
 
 ```bash
 pylint src/modules
-C:\Users\Manz\AppData\Local\Programs\Python\Python312\python.exe -m pylint src/modules
-C:\Users\Manz\AppData\Local\Programs\Python\Python312\python.exe -m pylint --generate-rcfile > .pylintrc
 ```
 
 Las reglas están definidas en el archivo `.pylintrc`.
