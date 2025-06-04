@@ -1,4 +1,4 @@
-# Proyecto Análisis de Datos del Embalse La Baells Manuel Rojas Garcia
+# Proyecto Análisis de Datos del Embalse La Baells
 
 
 ## 📊 Descripción
